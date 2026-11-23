@@ -2,26 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "TachyonCC",
     "description": "",
-    "home_page_url": "https://tachyonccsoft.github.com/tachyonccwebsite",
-    "feed_url": "https://tachyonccsoft.github.com/tachyonccwebsite/feed.json",
+    "home_page_url": "https://tachyonccsoft.github.io/tachyonccwebsite",
+    "feed_url": "https://tachyonccsoft.github.io/tachyonccwebsite/feed.json",
     "user_comment": "",
     "author": {
         "name": "Admin Tachyon"
     },
     "items": [
         {
-            "id": "https://tachyonccsoft.github.com/tachyonccwebsite/changelog/",
-            "url": "https://tachyonccsoft.github.com/tachyonccwebsite/changelog/",
+            "id": "https://tachyonccsoft.github.io/tachyonccwebsite/changelog/",
+            "url": "https://tachyonccsoft.github.io/tachyonccwebsite/changelog/",
             "title": "Changelog",
-            "summary": "V1 - Inicial - En construccion...",
-            "content_html": "<p>V1 - Inicial - En construccion...</p>",
+            "summary": "V1 - Initial build in development",
+            "content_html": "<p>V1 - Initial build in development</p>",
             "author": {
                 "name": "Admin Tachyon"
             },
             "tags": [
             ],
             "date_published": "2026-11-23T03:33:28+01:00",
-            "date_modified": "2026-11-23T03:54:21+01:00"
+            "date_modified": "2026-11-23T22:56:52+01:00"
         }
     ]
 }

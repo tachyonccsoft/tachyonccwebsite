@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>TachyonCC</title>
-    <link href="https://tachyonccsoft.github.com/tachyonccwebsite/feed.xml" rel="self" />
-    <link href="https://tachyonccsoft.github.com/tachyonccwebsite" />
-    <updated>2026-11-23T03:54:21+01:00</updated>
+    <link href="https://tachyonccsoft.github.io/tachyonccwebsite/feed.xml" rel="self" />
+    <link href="https://tachyonccsoft.github.io/tachyonccwebsite" />
+    <updated>2026-11-23T22:56:52+01:00</updated>
     <author>
         <name>Admin Tachyon</name>
     </author>
-    <id>https://tachyonccsoft.github.com/tachyonccwebsite</id>
+    <id>https://tachyonccsoft.github.io/tachyonccwebsite</id>
 
     <entry>
         <title>Changelog</title>
         <author>
             <name>Admin Tachyon</name>
         </author>
-        <link href="https://tachyonccsoft.github.com/tachyonccwebsite/changelog/"/>
-        <id>https://tachyonccsoft.github.com/tachyonccwebsite/changelog/</id>
+        <link href="https://tachyonccsoft.github.io/tachyonccwebsite/changelog/"/>
+        <id>https://tachyonccsoft.github.io/tachyonccwebsite/changelog/</id>
 
         <updated>2026-11-23T03:33:28+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    V1 - Inicial - En construccion...
+                    V1 - Initial build in development
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>V1 - Inicial - En construccion...</p>
+                <p>V1 - Initial build in development</p>
             ]]>
         </content>
     </entry>
