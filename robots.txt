@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tachyonccsoft.github.com/tachyonccwebsite/sitemap.xml

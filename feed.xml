@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>TachyonCC</title>
+    <link href="https://tachyonccsoft.github.com/tachyonccwebsite/feed.xml" rel="self" />
+    <link href="https://tachyonccsoft.github.com/tachyonccwebsite" />
+    <updated>2026-11-23T03:54:21+01:00</updated>
+    <author>
+        <name>Admin Tachyon</name>
+    </author>
+    <id>https://tachyonccsoft.github.com/tachyonccwebsite</id>
+
+    <entry>
+        <title>Changelog</title>
+        <author>
+            <name>Admin Tachyon</name>
+        </author>
+        <link href="https://tachyonccsoft.github.com/tachyonccwebsite/changelog/"/>
+        <id>https://tachyonccsoft.github.com/tachyonccwebsite/changelog/</id>
+
+        <updated>2026-11-23T03:33:28+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    V1 - Inicial - En construccion...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>V1 - Inicial - En construccion...</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
